@@ -4,6 +4,6 @@ import javax.servlet.http.HttpServletResponse;
 
 public class HelloWorldServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse res) {
-
+        int 5;
     }
 }
